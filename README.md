@@ -1,0 +1,2 @@
+# Exercise7
+Create a base class for a banking account. Decide what characteristics are common for checking and saving accounts and include these characteristics are common for checking and savings accounts and include these characteristics in the base class, Define subclasses for checking and savings. In your design, do not allow the banking base account to be instantiated -- only the checking and saving subclasses. Include a presentation class to test your design
